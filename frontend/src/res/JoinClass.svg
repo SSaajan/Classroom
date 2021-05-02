@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="65" height="65" viewBox="0 0 65 65">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffd560;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_6" transform="translate(-1122.007 -35.007)">
+    <g id="Icon_awesome-plus">
+      <path id="Path_1" data-name="Path 1" class="cls-1" d="M1165.8,64.4h-8.7V55.7a1.9,1.9,0,0,0-1.9-1.9h-1.9a1.9,1.9,0,0,0-1.9,1.9h0v8.7h-8.7a1.9,1.9,0,0,0-1.9,1.9v1.9a1.9,1.9,0,0,0,1.9,1.9h8.7v8.7a1.9,1.9,0,0,0,1.9,1.9h1.9a1.9,1.9,0,0,0,1.9-1.9V70.1h8.7a1.9,1.9,0,0,0,1.9-1.9V66.3a1.837,1.837,0,0,0-1.9-1.9Z"/>
+    </g>
+    <g id="Ellipse_2" transform="translate(1122.007 35.007)">
+      <g id="Group_7" data-name="Group 7">
+        <circle id="Ellipse_3" data-name="Ellipse 3" class="cls-2" cx="32.5" cy="32.5" r="32.5"/>
+      </g>
+      <g id="Group_8" data-name="Group 8">
+        <path id="Path_2" data-name="Path 2" class="cls-1" d="M32.5,65A32.5,32.5,0,1,1,65,32.5,32.563,32.563,0,0,1,32.5,65Zm0-59A26.5,26.5,0,1,0,59,32.5,26.546,26.546,0,0,0,32.5,6Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
